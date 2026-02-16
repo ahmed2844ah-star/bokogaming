@@ -1,0 +1,8 @@
+{
+  "name": "Boko Gaming Elite",
+  "description": "منصة ألعاب احترافية تضم ألعاب الطيارة والروليت مع نظام محفظة متكامل ولوحة تحكم شاملة.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
